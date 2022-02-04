@@ -1,0 +1,4 @@
+com/personal/chronos/Services/ToDoService.class
+com/personal/chronos/Rest/ToDoConfig.class
+com/personal/chronos/Rest/ToDoRest.class
+com/personal/chronos/Entity/ToDo.class
